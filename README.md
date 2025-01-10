@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @motorolla360
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Python from scratch
+- 👀 I’m interested in data science & data analytics
+- 🌱 Learning Python from scratch
 
 
 <!---
